@@ -14,7 +14,7 @@ Pillow==9.5.0
 # 3. Outdated and vulnerable, version released around 1 year ago
 Jinja2==3.1.2
 cryptography==41.0.5
-PyYAML==5.3.1
+PyYAML==5.4.1
 
 # 4. Version released more than 2 years ago
 six==1.15.0
